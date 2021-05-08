@@ -1,0 +1,11 @@
+String Queue Contents:
+HotPink
+Red
+Blue
+Purple
+Yellow
+
+Integer Queue Contents:
+3
+14
+1998
