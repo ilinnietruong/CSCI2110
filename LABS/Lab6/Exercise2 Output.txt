@@ -1,0 +1,51 @@
+#Test 1
+
+Enter name or done: a
+Enter name or done: b
+Enter name or done: c
+Enter name or done: d
+Enter name or done: e
+Enter name or done: f
+Enter name or done: done
+
+Height of tree is: 3
+Number of nodes in the tree is: 6
+
+Inorder:  null	f	d	null	b	null	
+Preorder:  b	d	f	null	null	null	
+Postorder:  null	f	null	d	null	b	
+Level order:  b	d	null	f	null	null	
+
+#test 2
+
+Enter name or done: a
+Enter name or done: b
+Enter name or done: c
+Enter name or done: done
+
+Height of tree is: 1
+Number of nodes in the tree is: 3
+
+Inorder:  c	b	null	
+Preorder:  b	c	null	
+Postorder:  c	null	b	
+Level order:  b	c	null	
+
+
+#test 3
+Enter name or done: y
+Enter name or done: e
+Enter name or done: s
+Enter name or done: n
+Enter name or done: o
+Enter name or done: d
+Enter name or done: s
+Enter name or done: done
+
+Height of tree is: 3
+Number of nodes in the tree is: 7
+
+Inorder:  s	d	null	n	null	e	null	
+Preorder:  e	n	d	s	null	null	null	
+Postorder:  s	null	d	null	n	null	e	
+Level order:  e	n	null	d	null	s	null

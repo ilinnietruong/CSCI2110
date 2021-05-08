@@ -1,0 +1,39 @@
+#TEST1
+
+Height of the tree is: 2
+Number of nodes in the tree is: 4
+
+Inorder:	F	D	B	E	
+Preorder:	B	D	F	E	
+Postorder:	F	D	E	B	
+Level order:	B	D	E	F	
+
+And is it height balanced... No.
+
+#Test2
+
+Can't attach
+Can't attach
+Can't attach
+Height of the tree is: 1
+Number of nodes in the tree is: 3
+
+Inorder:	D	G	C	
+Preorder:	G	D	C	
+Postorder:	D	C	G	
+Level order:	G	D	C	
+
+And is it height balanced... Yes!
+
+#Test 3
+
+Height of the tree is: 5
+Number of nodes in the tree is: 6
+
+Inorder:	F	D	C	A	E	G	
+Preorder:	G	F	E	D	C	A	
+Postorder:	A	C	D	E	F	G	
+Level order:	G	F	E	D	C	A	
+
+And is it height balanced... No.
+
