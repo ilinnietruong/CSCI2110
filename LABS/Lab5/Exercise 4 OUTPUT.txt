@@ -1,0 +1,2 @@
+Please enter a positive integer and the amount of the multiples of integer: 4 2
+8	4	

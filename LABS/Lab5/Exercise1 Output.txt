@@ -1,0 +1,3 @@
+The factoriral is :24
+The fibonacci is: 3
+The power is: 10000
