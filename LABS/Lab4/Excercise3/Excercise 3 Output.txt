@@ -1,0 +1,38 @@
+Enter the filename to read from: CountryCapitals.txt
+Welcome to the Country-Capital Quiz
+Play?	yes
+What country has "Beijing" as its capital? China
+Correct.
+Play?	yes
+What is the capital of "Ghana"? Accra
+Correct.
+Play?	yes
+What country has "Prague" as its capital? isk
+Incorrect. The correct answer is "Czech Republic"
+Play?	yes
+What country has "Tokyo" as its capital? Japan
+Correct.
+Play?	yes
+What is the capital of "United Arab Emirates"? Saudi Ababia
+Incorrect. The correct answer is "Abu Dhabi".
+Play?	yes
+What is the capital of "Belarus"? Minsk
+Correct.
+Play?	yes
+What is the capital of "Georgia"? Atlanta
+Incorrect. The correct answer is "Tbilisi".
+Play?	yes
+What is the capital of "Malaysia"? Kuala Lumpur
+Correct.
+Play?	yes
+What is the capital of "Germany"? Berlin
+Correct.
+Play?	yes
+What country has "Tehran" as its capital? Iran
+Correct.
+Play?	no
+
+Game over.
+
+Game Stats: 
+Questions played : 10; Correct answers : 7; Score: 70%
